@@ -39,7 +39,7 @@ bash
 pip install torch torchvision pandas scikit-learn
 
 ### 3. Download Dataset
-Download fashion-mnist_train.csv, provided in the Dataset floder
+Download fashion-mnist_train.csv:- (https://www.kaggle.com/datasets/zalando-research/fashionmnist)
 
 ### 4. Model Architecture
 Input: [1 x 28 x 28] grayscale image
