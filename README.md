@@ -1,8 +1,6 @@
 # CNN-fashion-mnist-pytorch
 A Convolutional Neural Network (CNN) built using **PyTorch** to classify clothing images from the Fashion MNIST dataset. This project trains a deep learning model and evaluates its accuracy on both training and test sets.
 
-![fashion-mnist](https://upload.wikimedia.org/wikipedia/commons/6/6d/Fashion-MNIST-Sprite.png)
-
 ---
 
 ## 📌 Dataset
